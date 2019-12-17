@@ -10,7 +10,7 @@ Contenido disponible en [admin211116.github.io/Instalacion-DNS/](https://admin21
   * seguimos aqui
 
 1. Instalacion
-[actividad1](Actividad1.mp)
+[actividad1](Actividad1.md)
 
 1. Paquetes
 1. Comandos
