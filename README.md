@@ -9,6 +9,8 @@ Contenido disponible en [admin211116.github.io/Instalacion-DNS/](https://admin21
   * esto esta dentro de la de arriba 
   * seguimos aqui
 
-1. Instalacion
+1. Instalacion<p>
+[actividad1](actividad1)
+ </p>
 1. Paquetes
 1. Comandos
