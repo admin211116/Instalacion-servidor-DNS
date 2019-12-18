@@ -5,9 +5,7 @@ Contenido disponible en [admin211116.github.io/Instalacion-DNS/](https://admin21
 ## Por Daniel Saez
 
 ## indice
-* Lista sin orden 
-  * esto esta dentro de la de arriba 
-  * seguimos aqui
+  
 
 1. Instalacion
 
