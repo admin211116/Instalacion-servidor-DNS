@@ -13,5 +13,4 @@ Contenido disponible en [admin211116.github.io/Instalacion-DNS/](https://admin21
 
 [actividad1](Actividad1.md)
 
-1. Paquetes
-1. Comandos
+
