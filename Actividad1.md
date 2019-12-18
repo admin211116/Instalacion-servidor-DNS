@@ -8,6 +8,7 @@ https://ubuntu.com/download/server
 
 1. Comprueba que se haya instalado correctamente.¿Que archivos se te han instalado y que utilidad tiene cada uno?¿Donde se han instlado?
 
-Página de ayuda: https://lcaballero.wordpress.com/2017/07/11/instalar-dns-bind9-en-ubuntu-15-10/
+Páginas de ayuda: https://lcaballero.wordpress.com/2017/07/11/instalar-dns-bind9-en-ubuntu-15-10/  
+https://www.howtoforge.com/traditional_dns_howto
 
 [Volver a la pagina pricipal](README.md)
