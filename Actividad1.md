@@ -1,6 +1,8 @@
 # Instalacion
 
-Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server
+Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
+
+https://ubuntu.com/download/server
 
 1. ¿Cual es el comando para instalar Bind9? Adjunta una captura que muestre lo que has realizado.
 
