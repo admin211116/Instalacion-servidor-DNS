@@ -1,7 +1,6 @@
-# ¿Cual es el comando para instalar Bind9?
+# Instalacion
+1. ¿Cual es el comando para instalar Bind9?<p></p>
 
-# Comprueba que se haya instalado correctamente.¿Que archivos se te han instalado?¿Donde se han instlado?
-! [para subir](para subir.png)
-
+1.Comprueba que se haya instalado correctamente.¿Que archivos se te han instalado?¿Donde se han instlado?
 
 [Volver a la pagina pricipal](README.md)
