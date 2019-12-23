@@ -2,13 +2,6 @@
 
 Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
-https://ubuntu.com/download/server
-
-1. ¿Cual es el comando para instalar Bind9? Adjunta una captura que muestre lo que has realizado.
-
-1. Comprueba que se haya instalado correctamente.¿Que archivos se te han instalado y que utilidad tiene cada uno?¿Donde se han instlado?
-
-Páginas de ayuda: https://lcaballero.wordpress.com/2017/07/11/instalar-dns-bind9-en-ubuntu-15-10/  
-https://www.howtoforge.com/traditional_dns_howto
+1-Instalacion de bind con 
 
 [Volver a la pagina pricipal](README.md)
