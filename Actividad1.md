@@ -13,7 +13,7 @@ Para acceder a webmin abrimos un nabejador y buscamos la direccion https://local
 
 2-Despues vamos a crear una zona maestra de busqueda directa.
 
-3-
+3-Ahora comprobamos con el comando dig
 
 
 
