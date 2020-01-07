@@ -11,7 +11,7 @@ Para acceder a webmin abrimos un navegador y buscamos la direccion https://local
 
 1-Primero buscaremos dns en el buscador y lo instalaremos 
 
-imagen de la busqued y el boton para instalar
+
 
 2-Despues vamos a crear una zona de busqueda directa.
 
