@@ -13,7 +13,11 @@ Para acceder a webmin abrimos un nabejador y buscamos la direccion https://local
 
 2-Despues vamos a crear una zona maestra de busqueda directa.
 
-3-Ahora comprobamos con el comando dig
+3-Ahora reiniciamos el servidor
+
+4-Comprobamos con el comando "nslookup(nombre del servidor)" que resuelva consultas.
+
+5-Luego con el comando "sudo gedit(ruta del archivo)" comprobamos el archivo log(/var/log) y el contenido del archivo named.conf.local.
 
 
 
