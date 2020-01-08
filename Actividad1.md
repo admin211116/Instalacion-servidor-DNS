@@ -22,6 +22,6 @@ Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 imagen del uso 
 
-4-
+4-Escribe la diferencia entre zona de busqueda directa y zona de busqueda inversa.
 
 [Volver a la pagina pricipal](README.md)
