@@ -6,7 +6,9 @@ Teniendo el siguente esquema de red, instala el servidor dns en webmin
 Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 
-1-Primero buscaremos dns en el buscador de webmin y instalaremos el bind9 
+1-Primero buscaremos dns webmin y instalaremos el bind9 dandole clicando en "pulse aqui" y instalar.
+
+![dnswebmin.PNG](dnswebmin.PNG)
 
 ![primero.PNG](primero.PNG)
 
