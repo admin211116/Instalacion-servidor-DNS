@@ -16,7 +16,7 @@ Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 Imagen con los pasos para crear la zona
 
-3-Ahora reiniciamos el servidor
+3-Ahora reiniciamos el servidor con las siguentes opciones que se encuentran arriva a la derecha de la pantalla, lo paramos y lo reiniciamos.
 
 ![reiniciar1.PNG](reiniciar1.PNG)
 
