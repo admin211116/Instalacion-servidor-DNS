@@ -18,10 +18,6 @@ Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 ![reiniciar2.PNG](imagenes/reiniciar2.PNG)
 
 
-3-Luego con el comando "sudo gedit(ruta del archivo)" comprobamos el archivo log(/var/log) y el contenido del archivo named.conf.local.
-
-imagen del uso 
-
-4-Escribe la diferencia entre zona de busqueda directa y zona de busqueda inversa.
+3-Escribe la diferencia entre zona de busqueda directa y zona de busqueda inversa.
 
 [Volver a la pagina pricipal](README.md)
