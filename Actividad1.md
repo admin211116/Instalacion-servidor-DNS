@@ -1,15 +1,14 @@
 # Instalacion
 Teniendo el siguente esquema de red, instala el servidor dns en webmin
 
-imagen gns3
-
+![primero.PNG]()
 
 Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 
 1-Primero buscaremos dns en el buscador de webmin y instalaremos el bind9 
 
-[!primero.PNG](admin211116/Instalacion-servidor-DNS/blob/master/primero.PNG)
+![primero.PNG](primero.PNG)
 
 2-Despues vamos a crear una zona de busqueda directa.
 
