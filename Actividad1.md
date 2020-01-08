@@ -7,9 +7,7 @@ imagen gns3
 Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 
-Para acceder a webmin abrimos un navegador y buscamos la direccion https://localhost:10000
-
-1-Primero buscaremos dns en el buscador de webmin y lo instalaremos 
+1-Primero buscaremos dns en el buscador de webmin y instalaremos el bind9 
 
 [!primero.PNG](../master/primero.PNG)
 
