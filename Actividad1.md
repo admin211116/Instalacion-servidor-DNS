@@ -12,18 +12,16 @@ Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
 ![primero.PNG](imagenes/primero.PNG)
 
-2-Despues vamos a crear una zona de busqueda directa.
-
-Imagen con los pasos para crear la zona
-
-3-Ahora reiniciamos el servidor con las siguentes opciones que se encuentran arriva a la derecha de la pantalla, lo paramos y lo iniciamos.
+2-Ahora reiniciamos el servidor con las siguentes opciones que se encuentran arriva a la derecha de la pantalla, lo paramos y lo iniciamos.
 
 ![reiniciar1.PNG](imagenes/reiniciar1.PNG)    
 ![reiniciar2.PNG](imagenes/reiniciar2.PNG)
 
 
-4-Luego con el comando "sudo gedit(ruta del archivo)" comprobamos el archivo log(/var/log) y el contenido del archivo named.conf.local.
+3-Luego con el comando "sudo gedit(ruta del archivo)" comprobamos el archivo log(/var/log) y el contenido del archivo named.conf.local.
 
 imagen del uso 
+
+4-
 
 [Volver a la pagina pricipal](README.md)
