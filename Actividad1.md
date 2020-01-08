@@ -1,7 +1,7 @@
 # Instalacion
 Teniendo el siguente esquema de red, instala el servidor dns en webmin
 
-![primero.PNG]()
+![primero.PNG](gns3.PNG)
 
 Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 
@@ -16,7 +16,9 @@ Imagen con los pasos para crear la zona
 
 3-Ahora reiniciamos el servidor
 
-imagen de como reiniciar
+![reiniciar1.PNG](reiniciar1.PNG)
+
+![reiniciar2.PNG](reiniciar2.PNG)
 
 4-Comprobamos con el comando "nslookup(nombre del servidor)" que resuelva consultas.
 
