@@ -17,7 +17,13 @@ Para hacer este ejercicio utilizaremos el sistema operativo de Ubuntu Server:
 ![reiniciar1.PNG](imagenes/reiniciar1.PNG)    
 ![reiniciar2.PNG](imagenes/reiniciar2.PNG)
 
+Donde creas la zona de busqueda directa pones 
 
-3-Escribe la diferencia entre zona de busqueda directa y zona de busqueda inversa.
+Esta zona resolvera nombres de dominio como www.google.com a ips 217.163.17.9
+
+en la inversa lo mismo pero al contario
+
+Esta zona resuelve direcciones ip 217.163.17.9 a nombre de dominio www.google.com
+
 
 [Volver a la pagina pricipal](README.md)
